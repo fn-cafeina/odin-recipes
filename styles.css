@@ -1,0 +1,12 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #EEE;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+  border: 2px solid #000;
+}
